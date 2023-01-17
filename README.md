@@ -1,6 +1,6 @@
 # Piano Panic 🎹
 
-name: Muhammad Raihan Zulfi
+Name: Muhammad Raihan Zulfi
 
 BN: 2602229673
 
